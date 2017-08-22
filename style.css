@@ -1,0 +1,28 @@
+.kirmizi{
+    background: red;
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.beyaz{
+    background: white;
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.baba{
+    width: 300px;
+    height: 300px;
+    margin: 200px auto;
+
+} 
+
+.baba:hover .bare{
+    background:url("alphorn.jpg");
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+
+
+}
